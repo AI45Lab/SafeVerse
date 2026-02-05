@@ -1,0 +1,32 @@
+{
+  "ceiling": [
+    "天花板",
+    [
+      "minecraft:light_gray_wool"
+    ]
+  ],
+  "door": [
+    "门",
+    [
+      "tmeo_ultra:baihuamubanmen"
+    ]
+  ],
+  "floor": [
+    "地板",
+    [
+      "minecraft:oak_planks"
+    ]
+  ],
+  "wall": [
+    "墙",
+    [
+      "minecraft:light_gray_wool"
+    ]
+  ],
+  "window": [
+    "窗户",
+    [
+      "tmeov:yinsebolibiankuang_1x_1"
+    ]
+  ]
+}
