@@ -57,7 +57,7 @@ conda install --channel=conda-forge openjdk=8 -y
 ```
 
 ### Demo
-Please follow the steps in `run_recon_pipeline.sh` to run the demo, with dedicated environment requirements for different steps as follows:
+We provide `example_data.zip`, extract it and place it under the project root. Please follow the steps in `run_recon_pipeline.sh` to run the demo, with dedicated environment requirements for different steps as follows:
 - Steps 1–3: Use the environment with support for Human3R reconstruction and PyTorch3D
 - Steps 4–6: Use the environment with support for SAM3D
 - Step 8: Use the environment with support for OpenJDK 8
@@ -69,8 +69,9 @@ Please follow the steps in `run_recon_pipeline.sh` to run the demo, with dedicat
 
 Finally, you can execute the generated files in the `mcfunction/` folder in Minecraft to build the final scene. 
 
-
 ![demo output](assets/example_recon.gif)
+
+Note: Automatic alignment of object positions and rotations is still in development, so minor manual adjustments may be needed for optimal results.
 
 
 ## ToDos
