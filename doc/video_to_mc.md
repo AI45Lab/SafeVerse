@@ -61,6 +61,6 @@ We provide `example_data.zip`, extract it and place it under the project root. P
 
 Finally, you can execute the generated files in the `mcfunction/` folder in Minecraft to build the final scene. 
 
-![demo output](assets/example_recon.gif)
+![demo output](../assets/example_recon.gif)
 
 Note: Automatic alignment of object positions and rotations is still in development, so minor manual adjustments may be needed for optimal results.
