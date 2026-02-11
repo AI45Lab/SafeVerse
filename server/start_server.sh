@@ -1,0 +1,1 @@
+python ./grpc_raycraft_gpu/server.py --env_path ./env
