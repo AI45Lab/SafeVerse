@@ -1,4 +1,4 @@
-This file provides environment setup and execution instructions for Minecraft scene reconstruction, which mainly involves 3D reconstruction, 3D object generation, and Minecraft mod conversion. conversion.
+This file provides environment setup and execution instructions for real-to-sim reconstruction, which mainly involves 3D reconstruction, 3D object generation, and Minecraft mod conversion. 
 
 ## Installation
 
