@@ -5,11 +5,6 @@
 
 **SafeVerse** is the world's first open-source platform for **trustworthy embodied AI**. It transforms the indoor videos into interactive, physics-compliant 3D scenes within minutes, enables automated attack-defense exercises, and supports the shift from static benchmarking to dynamic adversarial evolution—delivering a **low-cost**, **high-generalization** generative evolution arena for embodied agents.
 
-<div align="center">
-  <a href="assets/safeverse-demo.mp4">
-    <img src="assets/demo-cover.jpg" alt="SafeVerse Demo" width="800">
-  </a>
-</div>
 
 ## ✨ Features
 - 🎮 **Real-to-Sim Digital Twin**: Replicate real-world structures and semantics in interactive simulation.
@@ -27,6 +22,7 @@ git lfs pull
 For your convenience, the project is organized into independent modules. Please follow the documentation to run the corresponding part:
 - 🧱 [Real-to-Sim Reconstruction](doc/reconstruction.md)
 - 🤖 [Agent Evolution](doc/agent_training.md)
+
 
 ## 🤝 Acknowledgements
 This project is based on the following awesome repositories:
